@@ -1,2 +1,3 @@
 # apple-clone
-Apple Web Site Clone
+## This is a project of Apple Clone 
+### (https://www.apple.com/tr/)
